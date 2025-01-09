@@ -3,6 +3,7 @@
 # SQL + Python + DataLens
 ## Ссылка на дашборд: :arrow_right: <https://datalens.yandex/wly9uxy6r05ki>
 ## Шаг №1: SQL - Запрос :arrow_heading_down:
+![db_schema](https://github.com/user-attachments/assets/842e2773-8d20-4f03-a033-3821d1ba93a4)
 - Написан SQL - запрос
 ## Шаг № 2: Обработка на python
 - подготовлены данные:
